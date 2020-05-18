@@ -17,5 +17,20 @@ public class RestAPITest {
 		
 		System.out.println("This is RestAPI Test number 2");
 	}
+	
+	@Test
+	public void RestAPITest3()
+	{
+		
+		System.out.println("This is RestAPI Test number 3");
+	}
+	
+	@Test
+	public void RestAPITest4()
+	{
+		
+		System.out.println("This is RestAPI Test number 4");
+	}
+
 
 }
