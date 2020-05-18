@@ -32,4 +32,18 @@ public void SeleniumTest4()
 	System.out.println("This is Selenium Test number 4");
 }
 
+@Test
+public void SeleniumTest5()
+{
+	
+	System.out.println("This is Selenium Test number 5");
+}
+
+@Test
+public void SeleniumTest6()
+{
+	
+	System.out.println("This is Selenium Test number 6");
+}
+
 }
