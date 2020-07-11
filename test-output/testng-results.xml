@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93" started-at="2020-07-03T21:10:52 IST" finished-at="2020-07-03T21:10:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93" started-at="2020-07-03T21:10:52 IST" finished-at="2020-07-03T21:10:52 IST">
+      <class name="DawnOfAutomation.RestAPITest">
+        <test-method status="PASS" signature="RestAPITest1()[pri:0, instance:DawnOfAutomation.RestAPITest@63440df3]" name="RestAPITest1" duration-ms="16" started-at="2020-07-03T21:10:52 IST" finished-at="2020-07-03T21:10:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest1 -->
+        <test-method status="PASS" signature="RestAPITest2()[pri:0, instance:DawnOfAutomation.RestAPITest@63440df3]" name="RestAPITest2" duration-ms="0" started-at="2020-07-03T21:10:52 IST" finished-at="2020-07-03T21:10:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest2 -->
+        <test-method status="PASS" signature="RestAPITest4()[pri:0, instance:DawnOfAutomation.RestAPITest@63440df3]" name="RestAPITest4" duration-ms="0" started-at="2020-07-03T21:10:52 IST" finished-at="2020-07-03T21:10:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest4 -->
+        <test-method status="PASS" signature="RestAPITest3()[pri:0, instance:DawnOfAutomation.RestAPITest@63440df3]" name="RestAPITest3" duration-ms="0" started-at="2020-07-03T21:10:52 IST" finished-at="2020-07-03T21:10:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest3 -->
+      </class> <!-- DawnOfAutomation.RestAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
